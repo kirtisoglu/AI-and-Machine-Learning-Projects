@@ -42,17 +42,11 @@ on [Kaggle][https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicator
 
 # Models 
 
-Linear regression
 Logistic regression
 K-NN 
+Gaussian Model
 Decision Tree
 Random Forest
+XGBoost
+Neural Network
 
-
-# Tags
-
-Health
-Beginner
-Classification
-Diabetes
-Public Health

@@ -1,8 +1,7 @@
 # Project-Ideas
 
-
-1. Monte Carlo Message Passing Graph Neural Networks
-2. Diabetes Datasets
+1. Diabetes Datasets
+2. Monte Carlo Message Passing Graph Neural Networks
 3. Chatbot Dataset
 4. Stanford Cars Dataset
 5. Social Network Ads
