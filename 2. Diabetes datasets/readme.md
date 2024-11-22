@@ -1,4 +1,3 @@
-## About Dataset
 
 # Context
 
@@ -41,15 +40,6 @@ on [Kaggle][https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicator
 4. Can we create a short form of questions from the BRFSS using feature selection to accurately predict if someone might have diabetes or is at high risk of diabetes?
 
 
-# Tags
-
-Health
-Beginner
-Classification
-Diabetes
-Public Health
-
-
 # Models 
 
 Linear regression
@@ -57,3 +47,12 @@ Logistic regression
 K-NN 
 Decision Tree
 Random Forest
+
+
+# Tags
+
+Health
+Beginner
+Classification
+Diabetes
+Public Health
