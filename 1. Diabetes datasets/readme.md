@@ -42,13 +42,13 @@ on [Kaggle][https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicator
 
 # Models 
 
-Logistic regression
-K-NN 
-Gaussian Model
-Decision Tree
-Random Forest
-XGBoost
-Neural Network
-Support Vector Classifier
-AdaBoost
-Gradient Boosting
+- Logistic regression
+- K-NN 
+- Gaussian Model
+- Decision Tree
+- Random Forest
+- XGBoost
+- Neural Network
+- Support Vector Classifier
+- AdaBoost
+- Gradient Boosting
