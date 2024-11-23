@@ -49,4 +49,6 @@ Decision Tree
 Random Forest
 XGBoost
 Neural Network
-
+Support Vector Classifier
+AdaBoost
+Gradient Boosting
