@@ -18,7 +18,3 @@ If you use this dataset, please cite the following paper:
 Jonathan Krause, Michael Stark, Jia Deng, Li Fei-Fei
 
 4th IEEE Workshop on 3D Representation and Recognition, at ICCV 2013 (3dRR-13). Sydney, Australia. Dec. 8, 2013.
-
-
-
-https://www.kaggle.com/code/prateekcse101/mini-project-i
